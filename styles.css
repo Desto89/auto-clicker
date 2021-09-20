@@ -1,0 +1,65 @@
+body {
+    background-image: url('assets/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    color: crimson;
+}
+
+.header {
+    text-align: center;
+    color: crimson;
+    text-shadow: 1px 1px 1px black;
+}
+.options {
+    margin-left: 130px;
+    display: flex;
+    align-items: center;
+}
+
+.key-options {
+    margin-left: 143px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.options2 {
+    margin-left: 140px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.options input {
+    width: 50px;
+    text-align: center; 
+}
+
+.options label {
+    font-size: 20px;
+    color: crimson;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.key-options input {
+    width: 50px;
+    text-align: center; 
+}
+
+.key-options label {
+    font-size: 20px;
+    color: crimson;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.options2 label {
+    font-size: 20px;
+    color: crimson;
+    margin-left: 5px;
+}
